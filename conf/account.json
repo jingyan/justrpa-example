@@ -1,0 +1,10 @@
+[
+    {
+        "name":"test",
+        "username": "",
+        "password": "",
+        "auto_login": 1,
+        "mfa_login": 1,
+        "sites": ["United States","Canada"]
+    }
+]

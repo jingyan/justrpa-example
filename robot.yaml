@@ -1,0 +1,18 @@
+tasks:
+  Default:
+    command:
+      - python
+      - task.py
+  OrderScreenshot:
+    command:
+      - python
+      - task.py
+      - OrderScreenshot
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+  - .gitignore

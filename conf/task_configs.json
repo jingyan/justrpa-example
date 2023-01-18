@@ -1,0 +1,6 @@
+{
+    "BestSellerScreenshot":
+    {
+        "filepath_template":"{account_trim}/天猫/订单截图/{order_id}_{index_id}_{file_type}.png"
+    }          
+}
