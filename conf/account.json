@@ -1,10 +1,11 @@
 [
     {
-        "name":"test",
-        "username": "",
-        "password": "",
-        "auto_login": 1,
-        "mfa_login": 1,
-        "sites": ["United States","Canada"]
+        "name": "Test",
+        "username": "test",
+        "password": "test",
+        "auto_login": 0,
+        "mfa_login": 0,
+        "mfa_secret": "",
+        "sites": ["United States"]
     }
 ]

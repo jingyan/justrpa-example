@@ -1,6 +1,7 @@
 {
     "BestSellerScreenshot":
     {
-        "filepath_template":"{account_trim}/天猫/订单截图/{order_id}_{index_id}_{file_type}.png"
+        "handler":["browsers.bestseller.BestSellerBrowser","screenshot_bestseller_page"],
+        "filepath_template":"{account_trim}/亚马逊/{site_short}/16.亚马逊Best Seller截图/每日截图/{today}/{Category}_{today}.jpg"
     }          
 }

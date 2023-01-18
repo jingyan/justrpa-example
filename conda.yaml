@@ -12,4 +12,4 @@ dependencies:
   - pip:
     # Define pip packages here. 
     # https://pypi.org/
-    - justrpa==0.1.2
+    - justrpa==0.1.3
